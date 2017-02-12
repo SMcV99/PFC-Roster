@@ -1,14 +1,4 @@
 ######################################################################  RAVENS
-#Position, Name, Age, Rookie Year, Pot, FIQ, Dur, Attr1, Attr2, Attr3, Contract Money, Contract Years
-#QB Pass Strength, Accuracy, and Evasion 
-#RB Run Power, Speed, Evasion
-#WR Catching, Speed, Evasion
-#OL Strength, Run Block, Pass Block
-#K Kick Strength, Kick Accuracy, Clumsiness
-#S Coverage, Speed, Tackling
-#CB Coverage, Speed, Tackling
-#DL Strength, Run Stop, Pass Rush
-#LB Tackling, Run Stop, Pass Coverage
 Baltimore Ravens,BAL
 QB,Joe Flacco,31,2008,86,85,95,85,87,55,22.1,3
 QB,Ryan Mallett,28,2011,73,63,85,97,79,20,0.8,2
